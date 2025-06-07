@@ -15,7 +15,7 @@ Script Termux untuk kirim pesan WhatsApp via CLI **tanpa API resmi**. Bisa kirim
 ## 🔧 Cara Install
 
 ```bash
-git clone https://github.com/namamu/wa-sender-cli
+git clone https://github.com/dapztzy5912/wa-sender-cli.git
 cd wa-sender-cli
 pkg install jq -y
 chmod +x wa-sender.sh
